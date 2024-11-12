@@ -8,7 +8,7 @@ public class MtSpringBoot3Application {
 
     public static void main(String[] args) {
         SpringApplication.run(MtSpringBoot3Application.class, args);
-        // cmt 6
+        // main -> master
     }
 
 }
